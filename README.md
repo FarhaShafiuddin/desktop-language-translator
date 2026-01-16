@@ -19,4 +19,4 @@ The app allows users to translate text between multiple languages using the
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/language-translator-gui.git
+   git clone https://github.com/FarhaShafiuddin/language-translator-gui.git
